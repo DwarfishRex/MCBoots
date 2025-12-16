@@ -1,0 +1,30 @@
+{
+   "format_version":2,
+   "header":{
+      "description":"Made By DwarfishRex7857",
+      "name":"§x§5§4§D§A§F§4M§x§5§4§D§7§F§2C§x§5§4§D§3§F§1B§x§5§4§D§0§E§Fo§x§5§4§C§C§E§Do§x§5§4§C§9§E§Bt§x§5§4§C§5§E§As §x§5§4§B§E§E§6o§x§5§4§B§B§E§5n§x§5§4§B§8§E§3l§x§5§4§B§4§E§1y §x§5§4§A§D§D§Eo§x§5§4§A§A§D§Cn §x§5§4§A§3§D§8G§x§5§4§9§F§D§7i§x§5§4§9§C§D§5t§x§5§4§9§9§D§3h§x§5§4§9§5§D§2u§x§5§4§9§2§D§0b §x§5§4§8§B§C§Ca§x§5§4§8§7§C§Bn§x§5§4§8§4§C§9d §x§5§4§7§D§C§6C§x§5§4§7§A§C§4u§x§5§4§7§6§C§2r§x§5§4§7§3§C§0s§x§5§4§6§F§B§Fe§x§5§4§6§C§B§Df§x§5§4§6§8§B§Bo§x§5§4§6§5§B§9r§x§5§4§6§1§B§8g§x§5§4§5§E§B§6e]",
+      "uuid":"afee2160-86d7-4f18-8bf9-04230a9b4368",
+      "version":[
+         0,
+         0,
+         1
+      ],
+      "min_engine_version":[
+         1,
+         21,
+         120
+      ]
+   },
+   "modules":[
+      {
+         "description":"§x§5§4§D§A§F§4M§x§5§4§D§7§F§2C§x§5§4§D§3§F§1B§x§5§4§D§0§E§Fo§x§5§4§C§C§E§Do§x§5§4§C§9§E§Bt§x§5§4§C§5§E§As §x§5§4§B§E§E§6o§x§5§4§B§B§E§5n§x§5§4§B§8§E§3l§x§5§4§B§4§E§1y §x§5§4§A§D§D§Eo§x§5§4§A§A§D§Cn §x§5§4§A§3§D§8G§x§5§4§9§F§D§7i§x§5§4§9§C§D§5t§x§5§4§9§9§D§3h§x§5§4§9§5§D§2u§x§5§4§9§2§D§0b §x§5§4§8§B§C§Ca§x§5§4§8§7§C§Bn§x§5§4§8§4§C§9d §x§5§4§7§D§C§6C§x§5§4§7§A§C§4u§x§5§4§7§6§C§2r§x§5§4§7§3§C§0s§x§5§4§6§F§B§Fe§x§5§4§6§C§B§Df§x§5§4§6§8§B§Bo§x§5§4§6§5§B§9r§x§5§4§6§1§B§8g§x§5§4§5§E§B§6e",
+         "type":"resources",
+         "uuid":"e133b2e0-8ac3-4c1b-85ed-51b38e742dcc",
+         "version":[
+            1,
+            0,
+            0
+         ]
+      }
+   ]
+}
